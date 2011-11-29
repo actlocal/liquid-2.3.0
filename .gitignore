@@ -1,0 +1,6 @@
+*~
+*.gem
+*.swp
+pkg
+*.rbc
+.rvmrc
